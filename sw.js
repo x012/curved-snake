@@ -1,9 +1,9 @@
 const CACHE_NAME = 'snake-game-v1';
 const assetsToCache = [
-  '/',
-  '/index.html',
-  '/icon-512x512.png',
-  '/manifest.json'
+  './',
+  'index.html',
+  'icon-512x512.png',
+  'manifest.json'
 ];
 
 // Install event - caches assets
