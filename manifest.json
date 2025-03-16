@@ -2,7 +2,7 @@
   "name": "Curved Snake Game",
   "short_name": "Snake Game",
   "description": "A modern take on the classic snake game with curves and obstacles",
-  "start_url": "/index.html",
+  "start_url": "/curved-snake/index.html",
   "display": "standalone",
   "background_color": "#222222",
   "theme_color": "#111111",
